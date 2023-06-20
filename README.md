@@ -1,6 +1,6 @@
 # OpenAI Simple React Chatbot & FastAPI
 ## Description
-For rapid testing, prompt engineering, and task automation at low cost
+React frontend with Python fastapi backend for rapid testing, prompt engineering, and task automation at low cost
 <p align="center"> 
    <img src="https://github.com/whoynes/openai-reactchatbot-fastapi/blob/main/misc/readmepic.png" width="275" height="500"> 
 </p>
