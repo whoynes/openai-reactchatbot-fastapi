@@ -3,7 +3,7 @@
 <br> Frontend: https://github.com/FredrikOseberg/chatbot-tutorial </br>
 <br> Backend: https://github.com/oikosohn/openai-quickstart-fastapi </br>
 ## Description
-Built for testing and building simple chat applications for prompt engineering and task automation at scale
+For rapid testing, prompt engineering, and task automation at low cost
 <p align="center"> 
    <img src="https://github.com/whoynes/openai-reactchatbot-fastapi/blob/main/misc/readmepic.png" width="275" height="500"> 
 </p>
