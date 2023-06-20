@@ -5,10 +5,10 @@ React frontend with Python fastapi backend for rapid testing, prompt engineering
    <img src="https://github.com/whoynes/openai-reactchatbot-fastapi/blob/main/misc/readmepic.png" width="275" height="500"> 
 </p>
 
-# Instructions
-## Run in Codespace
+# Run in Codespace
 [![Open in GitHub Codespaces](https://img.shields.io/static/v1?style=for-the-badge&label=GitHub+Codespaces&message=Open&color=lightgrey&logo=github)](https://codespaces.new/whoynes/openai-reactchatbot-fastapi)
-## Run Locally
+<br> Skip steps 1 - 3 </br>
+# Instructions
 1. Install Python
 2. Clone This Repo
 3. Get yarn (Mac: https://tecadmin.net/install-yarn-macos/)
