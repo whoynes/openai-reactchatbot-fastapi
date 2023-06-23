@@ -1,0 +1,13 @@
+# Files and directories to ignore in the backend Docker build
+
+# Python virtual environment
+venv/
+
+# Compiled Python bytecode
+__pycache__/
+
+# Environment variables file
+.env
+
+# FastAPI auto-generated files
+.pydantic_cache/

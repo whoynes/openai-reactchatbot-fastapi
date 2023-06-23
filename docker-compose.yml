@@ -1,0 +1,15 @@
+version: '3'
+services:
+  backend:
+    build:
+      context: ./backend  # Path to the backend project directory
+    ports:
+      - '8000:8000'  # Map the container's port to the host machine
+    env_file:
+      - ./backend/.env
+
+  frontend:
+    build:
+      context: ./frontend  # Path to the frontend project directory
+    ports:
+      - '3000:3000'  # Map the container's port to the host machine

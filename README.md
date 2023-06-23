@@ -8,7 +8,17 @@ React frontend with Python fastapi backend for rapid testing, prompt engineering
 # Run in Codespace
 [![Open in GitHub Codespaces](https://img.shields.io/static/v1?style=for-the-badge&label=GitHub+Codespaces&message=Open&color=lightgrey&logo=github)](https://codespaces.new/whoynes/openai-reactchatbot-fastapi)
 <br> Skip steps 1 - 3 </br>
-# Instructions
+# Run in Docker
+1. Copy example .env file in /backend and set OPENAI_API_KEY
+```bash
+   # Linux
+   $ cp .env.example .env
+```
+2. From the root folder run
+```bash
+   $ docker-compose up --build
+```
+# Local Instructions
 1. Install Python
 2. Clone This Repo
 3. Get yarn (Mac: https://tecadmin.net/install-yarn-macos/)
