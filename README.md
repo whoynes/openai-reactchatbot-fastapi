@@ -5,9 +5,6 @@ React frontend with Python fastapi backend for rapid testing, prompt engineering
    <img src="https://github.com/whoynes/openai-reactchatbot-fastapi/blob/main/misc/readmepic.png" width="275" height="500"> 
 </p>
 
-# Run in Codespace
-[![Open in GitHub Codespaces](https://img.shields.io/static/v1?style=for-the-badge&label=GitHub+Codespaces&message=Open&color=lightgrey&logo=github)](https://codespaces.new/whoynes/openai-reactchatbot-fastapi)
-<br> Skip steps 1 - 3 </br>
 # Run in Docker
 1. Copy example .env file in /backend and set OPENAI_API_KEY
 ```bash
